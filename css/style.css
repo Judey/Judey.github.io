@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: #f1f1f1;
+}
+.left {
+	margin-left: 7%;
+	margin-top: 100px;
+	/*border: 1px solid #afafaf;*/
+	
+	width: 60%;
+	float: left;
+}
+.right {
+	margin-top: 100px;
+	margin-right: 7%;
+	/*border: 1px solid #afafaf;*/
+	
+	width: 20%;
+	float: right;
+}
+.right hr {
+	width: 96%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.right #touxiang {
+	margin-top: 20px;
+	width: 128px;
+	height: 128px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+}
+.right h2 {
+	font-family: "华文行楷";
+	margin-top: 15px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.right table {
+	margin-top: 20px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.right td {
+	text-align: center;
+}
+.right ul {
+	font-family: "华文楷体";
+	font-size: 15px;
+	margin-top: 10px;
+	list-style: none;
+	margin-left: 20%;
+	margin-right: auto;
+	
+}
+.nul li {
+	margin-left: 1px;
+}
+.nli {
+	margin-left: 1px;
+}
+.la{
+	text-decoration: none;
+}
+.zuoyoumings{
+	font-size:40px ;
+}
+.title{
+	margin-top:15px ;
+}
+.title a{
+	font-family: "微软雅黑";
+	font-weight: bold;
+	font-size: 21px;
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: blue;
+}
+.title td{
+	font-size: 15px;
+	color: #3F3F3F;
+}
+.title table{
+	margin-top: 5px;
+}
+hr{
+	margin-top: 15px;
+}
